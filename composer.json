@@ -1,5 +1,5 @@
 {
-    "name": "ASvetlana21/tic-tac-toe",
+    "name": "asvetlana21/tic-tac-toe",
     "type": "project",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "description": "",
     "require": {
-        "wp-cli/php-cli-tools": "^0.11.11"
+        "wp-cli/php-cli-tools": "^0.11.13"
     },
     "bin": [
         "bin/tic-tac-toe.php"

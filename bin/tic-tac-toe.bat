@@ -1,3 +1,5 @@
 @echo off
 
-php tic-tac-toe
+php tic-tac-toe.php
+
+pause
