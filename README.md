@@ -42,7 +42,7 @@
 
 1. Установить composer, если он не установлен;
 2. Перейти в каталог, в который вы будете клонировать проект;
-3. Выполнить команду 
+3. Выполнить команду 'composer create-project asvetlana21/tic-tac-toe';
 4. Перейти в каталог vendor/bin;
 5. Запустить файл tic-tac-toe.bat.
 
@@ -51,3 +51,4 @@
 ## Ссылки
 
 
+Ссылка: https://packagist.org/packages/asvetlana21/tic-tac-toe;
