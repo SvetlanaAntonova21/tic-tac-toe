@@ -50,4 +50,4 @@
 
 ## Ссылки
 
-Ссылка: https://packagist.org/packages/asvetlana21/tic-tac-toe;
+Ссылка: <https://packagist.org/packages/asvetlana21/tic-tac-toe>;
