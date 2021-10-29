@@ -2,9 +2,9 @@
 
 namespace SvetlanaAntonova21\ticTacToe\View;
 
-    use function cli\prompt;
-    use function cli\line;
-    use function cli\out;
+use function cli\prompt;
+use function cli\line;
+use function cli\out;
 
 function showGameBoard($board)
 {
