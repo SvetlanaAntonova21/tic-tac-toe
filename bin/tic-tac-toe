@@ -11,4 +11,4 @@
 
     use function SvetlanaAntonova21\ticTacToe\Controller\startGame;
 
-    startGame();
+    startGame($argv);
